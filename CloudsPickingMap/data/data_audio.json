@@ -1,0 +1,1732 @@
+[
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_12_15_17.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_12_15_17.jpg",
+    "lng": -99.13639831542969,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.28580093383789
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_13_02_59.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_13_02_59.jpg",
+    "lng": -99.1353988647461,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.28510093688965
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_12_54_54.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_12_54_54.jpg",
+    "lng": -99.13629913330078,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.285600662231445
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_12_47_38.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_12_47_38.jpg",
+    "lng": -99.13619995117188,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.28529930114746
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_12_36_10.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_12_36_10.jpg",
+    "lng": -99.13580322265625,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.285200119018555
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_11_57_09.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_11_57_09.jpg",
+    "lng": -99.13732147216797,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.285600662231445
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_13_01_23.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_13_01_23.jpg",
+    "lng": -99.1353988647461,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.28510093688965
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_12_05_01.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_12_05_01.jpg",
+    "lng": -99.13849639892578,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.284500122070312
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_11_50_41.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_11_50_41.jpg",
+    "lng": -99.13749694824219,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.285400390625
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_10_12_02_32.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_10_12_02_32.jpg",
+    "lng": -99.13829803466797,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.284400939941406
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_15_09_46_12.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_15_09_46_12.jpg",
+    "lng": -99.10060119628906,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.263099670410156
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_15_14_38_48.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_15_14_38_48.jpg",
+    "lng": -99.17369842529297,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.3914737701416
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_15_14_36_39.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_15_14_36_39.jpg",
+    "lng": -9.9173392E7,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.39058494567871
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_15_14_30_45.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_15_14_30_45.jpg",
+    "lng": -99.17562103271484,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.389711380004883
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_15_14_27_38.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_15_14_27_38.jpg",
+    "lng": -99.1767578125,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.3891658782959
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_15_14_22_09.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_15_14_22_09.jpg",
+    "lng": -99.1767578125,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.3891658782959
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_15_12_58_52.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_15_12_58_52.jpg",
+    "lng": -99.13310241699219,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.28561019897461
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_15_12_56_24.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_15_12_56_24.jpg",
+    "lng": -99.13310241699219,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.28561019897461
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_18_41_32.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_18_41_32.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_18_40_04.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_18_40_04.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_18_29_46.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_18_29_46.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_18_24_21.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_18_24_21.jpg",
+    "lng": -99.17784118652344,
+    "where": 1,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_18_12_53.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_18_12_53.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_18_07_17.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_18_07_17.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_18_05_21.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_18_05_21.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_17_13_02.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_17_13_02.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_17_09_55.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_17_09_55.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_14_17_09_11.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_14_17_09_11.jpg",
+    "lng": -99.17784118652344,
+    "where": 0,
+    "audioActive": 0,
+    "lat": 19.394926071166992
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_01_9_16_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_01_9_16_00.jpg",
+    "lng": -99.13520812988281,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.28533935546875
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_01_22_03_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_01_22_03_00.jpg",
+    "lng": -99.19862365722656,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.34185791015625
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_02_10_23_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_02_10_23_00.jpg",
+    "lng": -99.20240020751953,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.305696487426758
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_02_20_42_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_02_20_42_00.jpg",
+    "lng": -99.20177459716797,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.339475631713867
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_04_10_27_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_04_10_27_00.jpg",
+    "lng": -99.13990783691406,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.356517791748047
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_04_17_26_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_04_17_26_00.jpg",
+    "lng": -99.1365966796875,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.285327911376953
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_04_18_16_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_04_18_16_00.jpg",
+    "lng": -99.13945770263672,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.343975067138672
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_04_18_20_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_04_18_20_00.jpg",
+    "lng": -99.13961029052734,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.34381103515625
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_04_23_18_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_04_23_18_00.jpg",
+    "lng": -99.0999755859375,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.405656814575195
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_05_14_08_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_05_14_08_00.jpg",
+    "lng": -99.14109802246094,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.356304168701172
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_05_17_10_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_05_17_10_00.jpg",
+    "lng": -99.1703872680664,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.425247192382812
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_05_17_26_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_05_17_26_00.jpg",
+    "lng": -99.17030334472656,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.42523765563965
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_05_17_32_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_05_17_32_00.jpg",
+    "lng": -99.17288970947266,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.422677993774414
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_05_17_36_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_05_17_36_00.jpg",
+    "lng": -99.17092895507812,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.423730850219727
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_05_17_46_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_05_17_46_00.jpg",
+    "lng": -99.1726303100586,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.423931121826172
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_05_17_51_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_05_17_51_00.jpg",
+    "lng": -99.17350006103516,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.423770904541016
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_11_08_13_13_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_11_08_13_13_00.jpg",
+    "lng": -99.1896743774414,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.302457809448242
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_08_13_24_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_08_13_24_00.jpg",
+    "lng": -99.1926040649414,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.29889488220215
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_09_9_41_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_09_9_41_00.jpg",
+    "lng": -99.18354797363281,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.295806884765625
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_09_9_46_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_09_9_46_00.jpg",
+    "lng": -99.1835708618164,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.29572105407715
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_09_10_44_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_09_10_44_00.jpg",
+    "lng": -99.1844482421875,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.296611785888672
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_09_10_47_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_09_10_47_00.jpg",
+    "lng": -99.18330383300781,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.29661750793457
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_09_11_48_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_09_11_48_00.jpg",
+    "lng": -99.1849365234375,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.313753128051758
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_11_09_11_55_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_11_09_11_55_00.jpg",
+    "lng": -99.18524932861328,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.314470291137695
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_09_11_34_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_09_11_34_00.jpg",
+    "lng": -99.18486785888672,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.312210083007812
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_9_26_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_9_26_00.jpg",
+    "lng": -99.13980865478516,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.35593032836914
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_9_31_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_9_31_00.jpg",
+    "lng": -99.1374282836914,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.35601234436035
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_9_35_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_9_35_00.jpg",
+    "lng": -99.13732147216797,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.35582733154297
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_9_36_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_9_36_00.jpg",
+    "lng": -99.13652038574219,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.35561752319336
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_9_41_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_9_41_00.jpg",
+    "lng": -99.1359634399414,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.356033325195312
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_9_49_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_9_49_00.jpg",
+    "lng": -99.13817596435547,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.35575294494629
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_11_34_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_11_34_00.jpg",
+    "lng": -99.13973999023438,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.35628890991211
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_14_47_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_14_47_00.jpg",
+    "lng": -99.1156234741211,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.300979614257812
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_16_09_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_16_09_00.jpg",
+    "lng": -99.11592102050781,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.299707412719727
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_16_12_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_16_12_00.jpg",
+    "lng": -99.1164321899414,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.300771713256836
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_16_13_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_16_13_00.jpg",
+    "lng": -99.11649322509766,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.3004093170166
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_17_45_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_17_45_00.jpg",
+    "lng": -99.20122528076172,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.33957862854004
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_12_20_26_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_12_20_26_00.jpg",
+    "lng": -99.19955444335938,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.340192794799805
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_6_46_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_6_46_00.jpg",
+    "lng": -99.16941833496094,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.356155395507812
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_03_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_03_00.jpg",
+    "lng": -99.17373657226562,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.352460861206055
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_11_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_11_00.jpg",
+    "lng": -99.17711639404297,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.351863861083984
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_15_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_15_00.jpg",
+    "lng": -99.17858123779297,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.350765228271484
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_17_19_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_17_19_00.jpg",
+    "lng": -99.17738342285156,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.352039337158203
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_22_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_22_00.jpg",
+    "lng": -99.17745208740234,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.351943969726562
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_27_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_27_00.jpg",
+    "lng": -99.17758178710938,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.351646423339844
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_34_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_34_00.jpg",
+    "lng": -99.177001953125,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.350889205932617
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_40_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_40_00.jpg",
+    "lng": -99.17033386230469,
+    "where": 1,
+    "audioActive": 1,
+    "lat": -99.17033386230469
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_43_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_43_00.jpg",
+    "lng": -99.17033386230469,
+    "where": 1,
+    "audioActive": 1,
+    "lat": -99.17033386230469
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/enrique_2016_10_14_7_55_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/enrique_2016_10_14_7_55_00.jpg",
+    "lng": -99.16850280761719,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.349008560180664
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_19_01_24.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_19_01_24.jpg",
+    "lng": -99.137939453125,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433712005615234
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_44_07.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_44_07.jpg",
+    "lng": -99.13684844970703,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.43362808227539
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_33_58.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_33_58.jpg",
+    "lng": -99.13837432861328,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433752059936523
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_29_43.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_29_43.jpg",
+    "lng": -99.13683319091797,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433616638183594
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_28_52.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_28_52.jpg",
+    "lng": -99.13592529296875,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433340072631836
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_24_12.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_24_12.jpg",
+    "lng": -99.13706970214844,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433460235595703
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_18_31.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_18_31.jpg",
+    "lng": -99.14100646972656,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.43415641784668
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_15_07.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_15_07.jpg",
+    "lng": -99.14197540283203,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.4343204498291
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_13_06.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_13_06.jpg",
+    "lng": -99.1423568725586,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.43436050415039
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_11_14.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_11_14.jpg",
+    "lng": -99.14247131347656,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.434410095214844
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_18_05_49.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_18_05_49.jpg",
+    "lng": -99.1428451538086,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.434415817260742
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_17_54_37.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_17_54_37.jpg",
+    "lng": -99.1462173461914,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.43642234802246
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_17_11_28.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_17_11_28.jpg",
+    "lng": -99.16542053222656,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.37053108215332
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_17_32_51.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_17_32_51.jpg",
+    "lng": -99.16542053222656,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.37053108215332
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_17_21_42.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_17_21_42.jpg",
+    "lng": -99.16542053222656,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.37053108215332
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_17_15_23.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_17_15_23.jpg",
+    "lng": -99.16542053222656,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.37053108215332
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_17_13_15.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_17_13_15.jpg",
+    "lng": -99.16435241699219,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.370723724365234
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_11_16_40_12.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_11_16_40_12.jpg",
+    "lng": -99.1632308959961,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.360984802246094
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_20_15_27.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_20_15_27.jpg",
+    "lng": -99.1696548461914,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.35855484008789
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_58_34.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_58_34.jpg",
+    "lng": -99.16935729980469,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.37139320373535
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_53_15.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_53_15.jpg",
+    "lng": -99.17098236083984,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.371225357055664
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_50_38.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_50_38.jpg",
+    "lng": -99.17098236083984,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.371225357055664
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_42_52.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_42_52.jpg",
+    "lng": -99.17158508300781,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.3688907623291
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_33_44.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_33_44.jpg",
+    "lng": -99.17174530029297,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.36732292175293
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_32_11.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_32_11.jpg",
+    "lng": -99.17174530029297,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.36732292175293
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_25_48.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_25_48.jpg",
+    "lng": -99.1710205078125,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.367717742919922
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_11_27.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_11_27.jpg",
+    "lng": -99.1712875366211,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.36067771911621
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_10_38.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_10_38.jpg",
+    "lng": -99.1712875366211,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.36067771911621
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_19_02_45.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_19_02_45.jpg",
+    "lng": -99.17160034179688,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.36032485961914
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_18_53_33.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_18_53_33.jpg",
+    "lng": -99.17070770263672,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.361120223999023
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_18_50_13.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_18_50_13.jpg",
+    "lng": -99.1697006225586,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.360963821411133
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_18_36_21.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_18_36_21.jpg",
+    "lng": -99.16600799560547,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.360248565673828
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_18_33_47.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_18_33_47.jpg",
+    "lng": -99.16600799560547,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.360248565673828
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_18_25_13.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_18_25_13.jpg",
+    "lng": -99.16476440429688,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.36040687561035
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_04_18_03_30.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_04_18_03_30.jpg",
+    "lng": -99.16315460205078,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.360872268676758
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_12_19_13_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_12_19_13_00.jpg",
+    "lng": -99.1722640991211,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.394306182861328
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_12_17_13_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_12_17_13_00.jpg",
+    "lng": -99.17755126953125,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.395118713378906
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_12_19_02_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_12_19_02_00.jpg",
+    "lng": -99.1722640991211,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.394306182861328
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_12_19_20_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_12_19_20_00.jpg",
+    "lng": -99.1722640991211,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.394306182861328
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_12_19_21_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_12_19_21_00.jpg",
+    "lng": -99.1722640991211,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.393070220947266
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_12_19_30_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_12_19_30_00.jpg",
+    "lng": -99.1722640991211,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.394306182861328
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_12_19_37_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_12_19_37_00.jpg",
+    "lng": -99.17796325683594,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.38966178894043
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/rodrigo_2016_10_12_19_41_00.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/rodrigo_2016_10_12_19_41_00.jpg",
+    "lng": -99.17796325683594,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.38966178894043
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_17_22_52.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_17_22_52.jpg",
+    "lng": -99.1229019165039,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.408000946044922
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_05_16_18_40.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_05_16_18_40.jpg",
+    "lng": -99.14309692382812,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.360200881958008
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_20_48_13.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_20_48_13.jpg",
+    "lng": -99.13909912109375,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433799743652344
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_06_11_59_59.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_06_11_59_59.jpg",
+    "lng": -99.1624984741211,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.377500534057617
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_14_30_31.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_14_30_31.jpg",
+    "lng": -99.17449951171875,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.32390022277832
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_20_45_25.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_20_45_25.jpg",
+    "lng": -99.1406021118164,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.43470001220703
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_18_48_11.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_18_48_11.jpg",
+    "lng": -99.08719635009766,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.435300827026367
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_04_09_20_50.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_04_09_20_50.jpg",
+    "lng": -99.15979766845703,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.379199981689453
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_21_02_20.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_21_02_20.jpg",
+    "lng": -99.13819885253906,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433799743652344
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_22_01_42.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_22_01_42.jpg",
+    "lng": -99.13359832763672,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433000564575195
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_22_04_46.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_22_04_46.jpg",
+    "lng": -99.13379669189453,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.43280029296875
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_17_07_11.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_17_07_11.jpg",
+    "lng": -99.1792984008789,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.39430046081543
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_17_09_10.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_17_09_10.jpg",
+    "lng": -99.17980194091797,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.39430046081543
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_15_04_35.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_15_04_35.jpg",
+    "lng": -99.15769958496094,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.37380027770996
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_14_10_10.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_14_10_10.jpg",
+    "lng": -99.17620086669922,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.322900772094727
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_17_04_04.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_17_04_04.jpg",
+    "lng": -99.12259674072266,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.408599853515625
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_14_36_03.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_14_36_03.jpg",
+    "lng": -99.15560150146484,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.370800018310547
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_14_48_30.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_14_48_30.jpg",
+    "lng": -99.15589904785156,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.37019920349121
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_12_43_02.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_12_43_02.jpg",
+    "lng": -99.15709686279297,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.379199981689453
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_22_59_13.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_22_59_13.jpg",
+    "lng": -99.16339874267578,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.34910011291504
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_05_15_57_27.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_05_15_57_27.jpg",
+    "lng": -99.14440155029297,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.305099487304688
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_05_16_26_58.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_05_16_26_58.jpg",
+    "lng": -99.1530990600586,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.415700912475586
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_04_09_21_09.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_04_09_21_09.jpg",
+    "lng": -99.15969848632812,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.37929916381836
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_03_15_23_21.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_03_15_23_21.jpg",
+    "lng": -99.1333999633789,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.28569984436035
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_06_11_46_46.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_06_11_46_46.jpg",
+    "lng": -99.16120147705078,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.37779998779297
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_14_37_08.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_14_37_08.jpg",
+    "lng": -99.15550231933594,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.370800018310547
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_14_31_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_14_31_00.jpg",
+    "lng": -99.15570068359375,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.37190055847168
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_14_27_40.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_14_27_40.jpg",
+    "lng": -99.15550231933594,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.372100830078125
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_14_22_06.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_14_22_06.jpg",
+    "lng": -99.17469787597656,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.325199127197266
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_06_12_02_55.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_06_12_02_55.jpg",
+    "lng": -99.16200256347656,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.37809944152832
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_18_36_33.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_18_36_33.jpg",
+    "lng": -99.11370086669922,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.456199645996094
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_13_58_01.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_13_58_01.jpg",
+    "lng": -99.17790222167969,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.322399139404297
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_17_12_31.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_17_12_31.jpg",
+    "lng": -99.12339782714844,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.407400131225586
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_16_06_21.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_16_06_21.jpg",
+    "lng": -99.09200286865234,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.366899490356445
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_13_54_24.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_13_54_24.jpg",
+    "lng": -99.17729949951172,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.323699951171875
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_14_23_51.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_14_23_51.jpg",
+    "lng": -99.15609741210938,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.37339973449707
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_13_10_45.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_13_10_45.jpg",
+    "lng": -99.15470123291016,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.378599166870117
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_07_02_10_02.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_07_02_10_02.jpg",
+    "lng": -99.16619873046875,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.378000259399414
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_16_15_15.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_16_15_15.jpg",
+    "lng": -99.09359741210938,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.367799758911133
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_14_06_59.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_14_06_59.jpg",
+    "lng": -99.17569732666016,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.321800231933594
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_17_01_09.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_17_01_09.jpg",
+    "lng": -99.12349700927734,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.40839958190918
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_06_11_56_30.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_06_11_56_30.jpg",
+    "lng": -99.16110229492188,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.377399444580078
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_04_09_51_26.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_04_09_51_26.jpg",
+    "lng": -99.14969635009766,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.403799057006836
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_14_26_17.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_14_26_17.jpg",
+    "lng": -99.17400360107422,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.324499130249023
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_15_22_43.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_15_22_43.jpg",
+    "lng": -99.16059875488281,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.37420082092285
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_13_03_00.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_13_03_00.jpg",
+    "lng": -99.08509826660156,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.43429946899414
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_15_52_54.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_15_52_54.jpg",
+    "lng": -99.0989990234375,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.367900848388672
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_16_01_30.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_16_01_30.jpg",
+    "lng": -99.09870147705078,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.367700576782227
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_09_14_34_05.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_09_14_34_05.jpg",
+    "lng": -99.15550231933594,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.3705997467041
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_20_52_34.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_20_52_34.jpg",
+    "lng": -99.13909912109375,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.433799743652344
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_19_07_12.mp3",
+    "when": 0,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_19_07_12.jpg",
+    "lng": -99.08309936523438,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.435199737548828
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_08_13_46_54.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_08_13_46_54.jpg",
+    "lng": -99.17449951171875,
+    "where": 1,
+    "audioActive": 1,
+    "lat": 19.32379913330078
+  },
+  {
+    "imgActive": 1,
+    "audio": "https://s3-us-west-2.amazonaws.com/osctranscoder/mp3/karina_2016_10_04_09_15_24.mp3",
+    "when": 1,
+    "img": "https://s3-us-west-2.amazonaws.com/osctranscoder/img/karina_2016_10_04_09_15_24.jpg",
+    "lng": -99.16069793701172,
+    "where": 0,
+    "audioActive": 1,
+    "lat": 19.379100799560547
+  }
+]
